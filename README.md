@@ -1,6 +1,4 @@
-**# FinancialSage: Your PDF-to-Profit Sidekick**
-
-_________________________________________________________________________________________________________________________________________________
+# FinancialSage: Your PDF-to-Profit Sidekick
 
 Welcome to FinancialSage, the Python-powered tool that turns your boring financial PDFs into a treasure trove of insights! Whether you're decoding expense reports or hunting for Q4 revenue, FinancialSage makes crunching numbers as fun as binge-watching your favorite show. Let’s dive into the world of financial wizardry!
 
