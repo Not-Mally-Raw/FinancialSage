@@ -28,7 +28,7 @@ ________________________________________________________________________________
 Setup
 
 Grab the Code:
-git clone https://github.com/your-username/financialsage.git
+git clone (https://github.com/Not-Mally-Raw/FinancialSage)
 cd financialsage
 
 _________________________________________________________________________________________________________________________________________________
